@@ -140,36 +140,6 @@ Multiple submission versions are generated to compare alternative feature engine
 └── surface_classification.ipynb
 ```
 
-*Note: Update the filenames above to match the actual contents of the repository.*
-
-## How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone <repository-url>
-cd <repository-folder>
-```
-
-### 2. Install the dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn tensorflow jupyter
-```
-
-### 3. Prepare the dataset
-
-Place the required CSV files in the notebook's working directory.
-
-### 4. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open the notebook and execute the cells sequentially to reproduce the analysis, feature engineering experiments, model training and prediction generation.
-
-**Note:** The original dataset files are required to execute the complete workflow. Obtain them from the corresponding dataset source if they are not included in this repository.
 
 ## Key Takeaways
 
